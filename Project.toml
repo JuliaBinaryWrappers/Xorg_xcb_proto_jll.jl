@@ -1,6 +1,6 @@
 name = "Xorg_xcb_proto_jll"
 uuid = "c2e9c405-c068-5e7b-9b35-084fd074cae4"
-version = "1.17.0+1"
+version = "1.17.0+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
